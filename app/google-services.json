@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "898366734517",
+    "project_id": "mytrackingapp-7935c",
+    "storage_bucket": "mytrackingapp-7935c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:898366734517:android:57751a5a87901e018efefc",
+        "android_client_info": {
+          "package_name": "com.bombaysoftwares.lsdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "898366734517-qfgh9rpp1avfa2av4sglog5fp0eck7on.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChq1c9lCOWjeyTXcVzvXUn4r6uh6b9L4I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "898366734517-qfgh9rpp1avfa2av4sglog5fp0eck7on.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
